@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Test_Activation.vi" Type="VI" URL="../Test_Activation.vi"/>
 		<Item Name="Two_neuron_oscillator.vi" Type="VI" URL="../Two_neuron_oscillator.vi"/>
+		<Item Name="Two_neuron_oscillator_modulated.vi" Type="VI" URL="../Two_neuron_oscillator_modulated.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
